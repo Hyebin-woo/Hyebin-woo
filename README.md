@@ -1,6 +1,6 @@
 <div align="center">  
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=ADD8E6&height=300&section=header&text=Hello😇%20I'm%20HyeBin&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=ADD8E6&height=300&section=header&text=Hello😇%20I'm%20Hyebin%20Woo&fontSize=50)
 
 
 ## ⚙️ Tech Stack ⚙️
